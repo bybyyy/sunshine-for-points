@@ -1,0 +1,65 @@
+{
+  "program": "atmos",
+  "label": "Atmos Rewards charts (August 2025): Alaska/Hawaiian flights plus three partner regions",
+  "lastVerified": "2026-11-11",
+  "type": "regional-distance",
+  "note": "On Alaska/Hawaiian flights the premium cabin is First; it is used as the 'business' price here.",
+  "regionCharts": {
+    "usa": "alaska",
+    "hawaii": "alaska",
+    "mexico": "americas",
+    "caribbean": "americas",
+    "central-america": "americas",
+    "south-america": "americas",
+    "europe": "emea",
+    "middle-east": "emea",
+    "africa": "emea",
+    "asia": "asia-pacific",
+    "oceania": "asia-pacific"
+  },
+  "charts": {
+    "alaska": {
+      "label": "Alaska & Hawaiian flights",
+      "bands": [
+        { "maxMiles": 700, "economy": 4500, "business": 15000 },
+        { "maxMiles": 1400, "economy": 7500, "business": 25000 },
+        { "maxMiles": 2100, "economy": 10000, "business": 25000 },
+        { "maxMiles": 3500, "economy": 12500, "business": 30000 },
+        { "maxMiles": null, "economy": 20000, "business": 60000 }
+      ]
+    },
+    "americas": {
+      "label": "Partner: Americas",
+      "bands": [
+        { "maxMiles": 700, "economy": 4500, "business": 9000 },
+        { "maxMiles": 1400, "economy": 7500, "business": 15000 },
+        { "maxMiles": 2100, "economy": 12500, "business": 25000 },
+        { "maxMiles": 4000, "economy": 17500, "business": 35000 },
+        { "maxMiles": 6000, "economy": 25000, "business": 50000 },
+        { "maxMiles": null, "economy": 30000, "business": 60000 }
+      ]
+    },
+    "emea": {
+      "label": "Partner: Europe, Middle East & Africa",
+      "bands": [
+        { "maxMiles": 1500, "economy": 7500, "business": 15000 },
+        { "maxMiles": 3500, "economy": 22500, "business": 45000 },
+        { "maxMiles": 5000, "economy": 27500, "business": 55000 },
+        { "maxMiles": 7000, "economy": 35000, "business": 70000 },
+        { "maxMiles": 10000, "economy": 42500, "business": 85000 },
+        { "maxMiles": null, "economy": 55000, "business": 110000 }
+      ]
+    },
+    "asia-pacific": {
+      "label": "Partner: Asia Pacific",
+      "bands": [
+        { "maxMiles": 1500, "economy": 7500, "business": 15000 },
+        { "maxMiles": 3500, "economy": 25000, "business": 50000 },
+        { "maxMiles": 5000, "economy": 30000, "business": 60000 },
+        { "maxMiles": 7000, "economy": 37500, "business": 75000 },
+        { "maxMiles": 10000, "economy": 42500, "business": 85000 },
+        { "maxMiles": null, "economy": 65000, "business": 130000 }
+      ]
+    }
+  }
+}

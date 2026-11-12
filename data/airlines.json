@@ -1,0 +1,8 @@
+{
+  "lastVerified": "2026-11-11",
+  "airlines": [
+    { "id": "avios", "name": "British Airways Avios", "short": "Avios", "unit": "Avios", "color": "#5b3fa8", "cpp": 1.4, "chart": "charts/avios.json" },
+    { "id": "asiamiles", "name": "Cathay Pacific Asia Miles", "short": "Asia Miles", "unit": "miles", "color": "#00796b", "cpp": 1.3, "chart": "charts/asiamiles.json" },
+    { "id": "atmos", "name": "Alaska Atmos Rewards", "short": "Atmos", "unit": "points", "color": "#2c7da0", "cpp": 1.4, "chart": "charts/atmos.json" }
+  ]
+}

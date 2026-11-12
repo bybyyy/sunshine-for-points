@@ -1,0 +1,1240 @@
+{
+  "destinations": [
+    {
+      "code": "MIA",
+      "city": "Miami",
+      "country": "United States",
+      "region": "usa",
+      "currency": "USD",
+      "wiki": "Miami",
+      "tags": [
+        "beach",
+        "city",
+        "food"
+      ],
+      "pitch": "Cuban coffee at 7am, ocean by 8.",
+      "lat": 25.796,
+      "lon": -80.2898
+    },
+    {
+      "code": "EYW",
+      "city": "Key West",
+      "country": "United States",
+      "region": "usa",
+      "currency": "USD",
+      "wiki": "Key_West",
+      "tags": [
+        "beach",
+        "islands"
+      ],
+      "pitch": "The end of the road, and the start of island time.",
+      "lat": 24.5561,
+      "lon": -81.7596
+    },
+    {
+      "code": "MCO",
+      "city": "Orlando",
+      "country": "United States",
+      "region": "usa",
+      "currency": "USD",
+      "wiki": "Orlando,_Florida",
+      "tags": [
+        "city"
+      ],
+      "pitch": "Theme parks are the obvious pick, but the freshwater springs are the better one.",
+      "lat": 28.4294,
+      "lon": -81.309
+    },
+    {
+      "code": "SAN",
+      "city": "San Diego",
+      "country": "United States",
+      "region": "usa",
+      "currency": "USD",
+      "wiki": "San_Diego",
+      "tags": [
+        "beach",
+        "city",
+        "food"
+      ],
+      "pitch": "Fish tacos and a 70-degree default setting.",
+      "lat": 32.7336,
+      "lon": -117.19
+    },
+    {
+      "code": "PSP",
+      "city": "Palm Springs",
+      "country": "United States",
+      "region": "usa",
+      "currency": "USD",
+      "wiki": "Palm_Springs,_California",
+      "tags": [
+        "desert"
+      ],
+      "pitch": "Lounge by a pool with the mountains right behind it.",
+      "lat": 33.8297,
+      "lon": -116.507
+    },
+    {
+      "code": "PHX",
+      "city": "Phoenix",
+      "country": "United States",
+      "region": "usa",
+      "currency": "USD",
+      "wiki": "Phoenix,_Arizona",
+      "tags": [
+        "desert",
+        "nature"
+      ],
+      "pitch": "Saguaro hikes in the one season they're pleasant.",
+      "lat": 33.4353,
+      "lon": -112.0059
+    },
+    {
+      "code": "MSY",
+      "city": "New Orleans",
+      "country": "United States",
+      "region": "usa",
+      "currency": "USD",
+      "wiki": "New_Orleans",
+      "tags": [
+        "city",
+        "food"
+      ],
+      "pitch": "Beignets in the morning, whatever band is playing on Frenchmen Street at night.",
+      "lat": 29.9934,
+      "lon": -90.2647
+    },
+    {
+      "code": "AUS",
+      "city": "Austin",
+      "country": "United States",
+      "region": "usa",
+      "currency": "USD",
+      "wiki": "Austin,_Texas",
+      "tags": [
+        "city",
+        "food"
+      ],
+      "pitch": "Brisket for lunch, live music for dinner.",
+      "lat": 30.1975,
+      "lon": -97.662
+    },
+    {
+      "code": "LAS",
+      "city": "Las Vegas",
+      "country": "United States",
+      "region": "usa",
+      "currency": "USD",
+      "wiki": "Las_Vegas",
+      "tags": [
+        "city",
+        "desert"
+      ],
+      "pitch": "Neon nights and Red Rock mornings.",
+      "lat": 36.0834,
+      "lon": -115.1518
+    },
+    {
+      "code": "HNL",
+      "city": "Honolulu",
+      "country": "United States",
+      "region": "hawaii",
+      "currency": "USD",
+      "wiki": "Honolulu",
+      "tags": [
+        "beach",
+        "islands",
+        "city"
+      ],
+      "pitch": "Waikiki surf lessons and shave ice.",
+      "lat": 21.3184,
+      "lon": -157.9257
+    },
+    {
+      "code": "OGG",
+      "city": "Maui",
+      "country": "United States",
+      "region": "hawaii",
+      "currency": "USD",
+      "wiki": "Maui",
+      "tags": [
+        "beach",
+        "islands",
+        "nature"
+      ],
+      "pitch": "Sunrise over Haleakalā, snorkel by noon.",
+      "lat": 20.8963,
+      "lon": -156.4318
+    },
+    {
+      "code": "KOA",
+      "city": "Kona",
+      "country": "United States",
+      "region": "hawaii",
+      "currency": "USD",
+      "wiki": "Kailua-Kona,_Hawaii",
+      "tags": [
+        "beach",
+        "islands",
+        "nature"
+      ],
+      "pitch": "You can snorkel with manta rays at night here. Seriously.",
+      "lat": 19.7388,
+      "lon": -156.0456
+    },
+    {
+      "code": "LIH",
+      "city": "Kauai",
+      "country": "United States",
+      "region": "hawaii",
+      "currency": "USD",
+      "wiki": "Kauai",
+      "tags": [
+        "islands",
+        "nature"
+      ],
+      "pitch": "The Nā Pali coast is worth every point.",
+      "lat": 21.9744,
+      "lon": -159.3371
+    },
+    {
+      "code": "CUN",
+      "city": "Cancún",
+      "country": "Mexico",
+      "region": "mexico",
+      "currency": "MXN",
+      "wiki": "Cancún",
+      "tags": [
+        "beach"
+      ],
+      "pitch": "Turquoise water and cenotes within an hour.",
+      "lat": 21.0408,
+      "lon": -86.8735
+    },
+    {
+      "code": "SJD",
+      "city": "Los Cabos",
+      "country": "Mexico",
+      "region": "mexico",
+      "currency": "MXN",
+      "wiki": "Los_Cabos_Municipality",
+      "tags": [
+        "beach",
+        "desert"
+      ],
+      "pitch": "Where the desert runs straight into the sea.",
+      "lat": 23.1519,
+      "lon": -109.7207
+    },
+    {
+      "code": "PVR",
+      "city": "Puerto Vallarta",
+      "country": "Mexico",
+      "region": "mexico",
+      "currency": "MXN",
+      "wiki": "Puerto_Vallarta",
+      "tags": [
+        "beach",
+        "food"
+      ],
+      "pitch": "Malecón sunsets and jungle-backed bays.",
+      "lat": 20.6799,
+      "lon": -105.2544
+    },
+    {
+      "code": "MEX",
+      "city": "Mexico City",
+      "country": "Mexico",
+      "region": "mexico",
+      "currency": "MXN",
+      "wiki": "Mexico_City",
+      "tags": [
+        "city",
+        "food",
+        "culture"
+      ],
+      "pitch": "Tacos al pastor and world-class museums.",
+      "lat": 19.4358,
+      "lon": -99.0703
+    },
+    {
+      "code": "OAX",
+      "city": "Oaxaca",
+      "country": "Mexico",
+      "region": "mexico",
+      "currency": "MXN",
+      "wiki": "Oaxaca_City",
+      "tags": [
+        "food",
+        "culture"
+      ],
+      "pitch": "Famous for its moles. Try at least three.",
+      "lat": 16.9988,
+      "lon": -96.7261
+    },
+    {
+      "code": "MID",
+      "city": "Mérida",
+      "country": "Mexico",
+      "region": "mexico",
+      "currency": "MXN",
+      "wiki": "Mérida,_Yucatán",
+      "tags": [
+        "culture",
+        "food"
+      ],
+      "pitch": "Colonial plazas with Maya ruins nearby.",
+      "lat": 20.9305,
+      "lon": -89.6455
+    },
+    {
+      "code": "SJU",
+      "city": "San Juan",
+      "country": "Puerto Rico",
+      "region": "caribbean",
+      "currency": "USD",
+      "wiki": "San_Juan,_Puerto_Rico",
+      "tags": [
+        "beach",
+        "city",
+        "islands"
+      ],
+      "pitch": "Blue cobblestones and no passport needed.",
+      "lat": 18.4394,
+      "lon": -66.0018
+    },
+    {
+      "code": "STT",
+      "city": "St. Thomas",
+      "country": "U.S. Virgin Islands",
+      "region": "caribbean",
+      "currency": "USD",
+      "wiki": "Saint_Thomas,_U.S._Virgin_Islands",
+      "tags": [
+        "beach",
+        "islands"
+      ],
+      "pitch": "Magens Bay, plus a ferry over to St. John for the national park.",
+      "lat": 18.3371,
+      "lon": -64.9773
+    },
+    {
+      "code": "MBJ",
+      "city": "Montego Bay",
+      "country": "Jamaica",
+      "region": "caribbean",
+      "currency": "JMD",
+      "wiki": "Montego_Bay",
+      "tags": [
+        "beach",
+        "islands"
+      ],
+      "pitch": "Doctor's Cave Beach, then jerk chicken from a roadside stand.",
+      "lat": 18.5034,
+      "lon": -77.9132
+    },
+    {
+      "code": "NAS",
+      "city": "Nassau",
+      "country": "Bahamas",
+      "region": "caribbean",
+      "currency": "BSD",
+      "wiki": "Nassau,_Bahamas",
+      "tags": [
+        "beach",
+        "islands"
+      ],
+      "pitch": "Conch fritters at Arawak Cay, and water clear enough to see your feet.",
+      "lat": 25.039,
+      "lon": -77.4662
+    },
+    {
+      "code": "PUJ",
+      "city": "Punta Cana",
+      "country": "Dominican Republic",
+      "region": "caribbean",
+      "currency": "DOP",
+      "wiki": "Punta_Cana",
+      "tags": [
+        "beach"
+      ],
+      "pitch": "Mostly all-inclusive resorts. The beach is the whole point.",
+      "lat": 18.5671,
+      "lon": -68.3646
+    },
+    {
+      "code": "AUA",
+      "city": "Aruba",
+      "country": "Aruba",
+      "region": "caribbean",
+      "currency": "AWG",
+      "wiki": "Aruba",
+      "photoWiki": "Eagle_Beach",
+      "tags": [
+        "beach",
+        "islands"
+      ],
+      "pitch": "Below the hurricane belt and always breezy.",
+      "lat": 12.5011,
+      "lon": -70.0143
+    },
+    {
+      "code": "CUR",
+      "city": "Curaçao",
+      "country": "Curaçao",
+      "region": "caribbean",
+      "currency": "XCG",
+      "wiki": "Curaçao",
+      "photoWiki": "Willemstad",
+      "tags": [
+        "beach",
+        "islands",
+        "culture"
+      ],
+      "pitch": "Pastel Willemstad and hidden coves.",
+      "lat": 12.1889,
+      "lon": -68.9598
+    },
+    {
+      "code": "BGI",
+      "city": "Barbados",
+      "country": "Barbados",
+      "region": "caribbean",
+      "currency": "BBD",
+      "wiki": "Barbados",
+      "photoWiki": "Bridgetown",
+      "tags": [
+        "beach",
+        "islands",
+        "food"
+      ],
+      "pitch": "Fish fry Fridays in Oistins.",
+      "lat": 13.0747,
+      "lon": -59.491
+    },
+    {
+      "code": "GCM",
+      "city": "Grand Cayman",
+      "country": "Cayman Islands",
+      "region": "caribbean",
+      "currency": "KYD",
+      "wiki": "Grand_Cayman",
+      "tags": [
+        "beach",
+        "islands"
+      ],
+      "pitch": "Swim with stingrays at Stingray City.",
+      "lat": 19.2928,
+      "lon": -81.3577
+    },
+    {
+      "code": "PLS",
+      "city": "Turks & Caicos",
+      "country": "Turks and Caicos Islands",
+      "region": "caribbean",
+      "currency": "USD",
+      "wiki": "Providenciales",
+      "tags": [
+        "beach",
+        "islands"
+      ],
+      "pitch": "Grace Bay is calm and shallow enough to wade way out.",
+      "lat": 21.7737,
+      "lon": -72.2683
+    },
+    {
+      "code": "UVF",
+      "city": "St. Lucia",
+      "country": "Saint Lucia",
+      "region": "caribbean",
+      "currency": "XCD",
+      "wiki": "Saint_Lucia",
+      "photoWiki": "Pitons_(Saint_Lucia)",
+      "tags": [
+        "islands",
+        "nature"
+      ],
+      "pitch": "Two huge volcanic peaks right on the water. You can hike one.",
+      "lat": 13.7332,
+      "lon": -60.9526
+    },
+    {
+      "code": "SXM",
+      "city": "St. Maarten",
+      "country": "Sint Maarten",
+      "region": "caribbean",
+      "currency": "XCG",
+      "wiki": "Sint_Maarten",
+      "photoWiki": "Maho_Beach",
+      "tags": [
+        "beach",
+        "islands",
+        "food"
+      ],
+      "pitch": "Watch jets land over Maho Beach.",
+      "lat": 18.041,
+      "lon": -63.1089
+    },
+    {
+      "code": "BDA",
+      "city": "Bermuda",
+      "country": "Bermuda",
+      "region": "caribbean",
+      "currency": "BMD",
+      "wiki": "Bermuda",
+      "photoWiki": "St._George's,_Bermuda",
+      "tags": [
+        "beach",
+        "islands"
+      ],
+      "pitch": "Pink sand, only a short hop from the East Coast.",
+      "lat": 32.3638,
+      "lon": -64.6782
+    },
+    {
+      "code": "LIR",
+      "city": "Guanacaste",
+      "country": "Costa Rica",
+      "region": "central-america",
+      "currency": "CRC",
+      "wiki": "Guanacaste_Province",
+      "tags": [
+        "beach",
+        "nature"
+      ],
+      "pitch": "Surf towns, howler monkeys, dry-season sun.",
+      "lat": 10.5933,
+      "lon": -85.5444
+    },
+    {
+      "code": "SJO",
+      "city": "San José",
+      "country": "Costa Rica",
+      "region": "central-america",
+      "currency": "CRC",
+      "wiki": "San_José,_Costa_Rica",
+      "tags": [
+        "nature",
+        "city"
+      ],
+      "pitch": "Gateway to cloud forests and volcanoes.",
+      "lat": 9.9939,
+      "lon": -84.2088
+    },
+    {
+      "code": "BZE",
+      "city": "Belize",
+      "country": "Belize",
+      "region": "central-america",
+      "currency": "BZD",
+      "wiki": "Belize",
+      "photoWiki": "Great_Blue_Hole",
+      "tags": [
+        "islands",
+        "nature"
+      ],
+      "pitch": "Barrier-reef diving and Maya temples.",
+      "lat": 17.54,
+      "lon": -88.3036
+    },
+    {
+      "code": "PTY",
+      "city": "Panama City",
+      "country": "Panama",
+      "region": "central-america",
+      "currency": "USD",
+      "wiki": "Panama_City",
+      "tags": [
+        "city",
+        "culture"
+      ],
+      "pitch": "Casco Viejo rooftops above the canal.",
+      "lat": 9.0714,
+      "lon": -79.3835
+    },
+    {
+      "code": "RTB",
+      "city": "Roatán",
+      "country": "Honduras",
+      "region": "central-america",
+      "currency": "HNL",
+      "wiki": "Roatán",
+      "tags": [
+        "islands",
+        "beach"
+      ],
+      "pitch": "Cheap diving on the Mesoamerican reef.",
+      "lat": 16.3168,
+      "lon": -86.523
+    },
+    {
+      "code": "CTG",
+      "city": "Cartagena",
+      "country": "Colombia",
+      "region": "south-america",
+      "currency": "COP",
+      "wiki": "Cartagena,_Colombia",
+      "tags": [
+        "beach",
+        "city",
+        "culture"
+      ],
+      "pitch": "Walk the old city walls at sunset, once it finally cools off.",
+      "lat": 10.4424,
+      "lon": -75.513
+    },
+    {
+      "code": "MDE",
+      "city": "Medellín",
+      "country": "Colombia",
+      "region": "south-america",
+      "currency": "COP",
+      "wiki": "Medellín",
+      "tags": [
+        "city",
+        "nature"
+      ],
+      "pitch": "The City of Eternal Spring lives up to it.",
+      "lat": 6.1645,
+      "lon": -75.4231
+    },
+    {
+      "code": "LIM",
+      "city": "Lima",
+      "country": "Peru",
+      "region": "south-america",
+      "currency": "PEN",
+      "wiki": "Lima",
+      "tags": [
+        "city",
+        "food"
+      ],
+      "pitch": "Get ceviche at lunch. Locals don't eat it at night.",
+      "lat": -12.0219,
+      "lon": -77.1143
+    },
+    {
+      "code": "CUZ",
+      "city": "Cusco",
+      "country": "Peru",
+      "region": "south-america",
+      "currency": "PEN",
+      "wiki": "Cusco",
+      "tags": [
+        "culture",
+        "nature"
+      ],
+      "pitch": "Inca stonework and the road to Machu Picchu.",
+      "lat": -13.5357,
+      "lon": -71.9388
+    },
+    {
+      "code": "SCL",
+      "city": "Santiago",
+      "country": "Chile",
+      "region": "south-america",
+      "currency": "CLP",
+      "wiki": "Santiago",
+      "tags": [
+        "city",
+        "food",
+        "nature"
+      ],
+      "pitch": "Andes views and wine-country day trips.",
+      "lat": -33.393,
+      "lon": -70.7858
+    },
+    {
+      "code": "EZE",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "region": "south-america",
+      "currency": "ARS",
+      "wiki": "Buenos_Aires",
+      "tags": [
+        "city",
+        "food",
+        "culture"
+      ],
+      "pitch": "Dinner starts around 10pm, so plan on a late night.",
+      "lat": -34.8222,
+      "lon": -58.5358
+    },
+    {
+      "code": "GIG",
+      "city": "Rio de Janeiro",
+      "country": "Brazil",
+      "region": "south-america",
+      "currency": "BRL",
+      "wiki": "Rio_de_Janeiro",
+      "tags": [
+        "beach",
+        "city"
+      ],
+      "pitch": "Ipanema sunsets from Arpoador rock.",
+      "lat": -22.81,
+      "lon": -43.2506
+    },
+    {
+      "code": "LIS",
+      "city": "Lisbon",
+      "country": "Portugal",
+      "region": "europe",
+      "currency": "EUR",
+      "wiki": "Lisbon",
+      "tags": [
+        "city",
+        "food"
+      ],
+      "pitch": "Pastéis de nata and tram 28.",
+      "lat": 38.7813,
+      "lon": -9.1359
+    },
+    {
+      "code": "FAO",
+      "city": "Algarve",
+      "country": "Portugal",
+      "region": "europe",
+      "currency": "EUR",
+      "wiki": "Algarve",
+      "tags": [
+        "beach",
+        "nature"
+      ],
+      "pitch": "Golden sea caves and cliffside towns.",
+      "lat": 37.0159,
+      "lon": -7.9709
+    },
+    {
+      "code": "MAD",
+      "city": "Madrid",
+      "country": "Spain",
+      "region": "europe",
+      "currency": "EUR",
+      "wiki": "Madrid",
+      "tags": [
+        "city",
+        "food",
+        "culture"
+      ],
+      "pitch": "Late dinners and the Prado.",
+      "lat": 40.4934,
+      "lon": -3.5722
+    },
+    {
+      "code": "BCN",
+      "city": "Barcelona",
+      "country": "Spain",
+      "region": "europe",
+      "currency": "EUR",
+      "wiki": "Barcelona",
+      "tags": [
+        "beach",
+        "city",
+        "food"
+      ],
+      "pitch": "Gaudí in the morning, beach in the afternoon.",
+      "lat": 41.2971,
+      "lon": 2.0785
+    },
+    {
+      "code": "AGP",
+      "city": "Málaga",
+      "country": "Spain",
+      "region": "europe",
+      "currency": "EUR",
+      "wiki": "Málaga",
+      "tags": [
+        "beach",
+        "city"
+      ],
+      "pitch": "Costa del Sol sunshine, even in winter.",
+      "lat": 36.6782,
+      "lon": -4.5002
+    },
+    {
+      "code": "SVQ",
+      "city": "Seville",
+      "country": "Spain",
+      "region": "europe",
+      "currency": "EUR",
+      "wiki": "Seville",
+      "tags": [
+        "city",
+        "culture"
+      ],
+      "pitch": "The Alcázar in the morning, flamenco after dark.",
+      "lat": 37.418,
+      "lon": -5.8931
+    },
+    {
+      "code": "PMI",
+      "city": "Mallorca",
+      "country": "Spain",
+      "region": "europe",
+      "currency": "EUR",
+      "wiki": "Mallorca",
+      "photoWiki": "Palma_Cathedral",
+      "tags": [
+        "beach",
+        "islands"
+      ],
+      "pitch": "Rent a car and find a different cove every day.",
+      "lat": 39.5517,
+      "lon": 2.7388
+    },
+    {
+      "code": "TFS",
+      "city": "Tenerife",
+      "country": "Spain",
+      "region": "europe",
+      "currency": "EUR",
+      "wiki": "Tenerife",
+      "tags": [
+        "beach",
+        "islands",
+        "nature"
+      ],
+      "pitch": "Europe's winter sun, under Mount Teide.",
+      "lat": 28.0445,
+      "lon": -16.5725
+    },
+    {
+      "code": "ATH",
+      "city": "Athens",
+      "country": "Greece",
+      "region": "europe",
+      "currency": "EUR",
+      "wiki": "Athens",
+      "tags": [
+        "city",
+        "culture",
+        "food"
+      ],
+      "pitch": "Acropolis views from every rooftop bar.",
+      "lat": 37.9364,
+      "lon": 23.9445
+    },
+    {
+      "code": "JTR",
+      "city": "Santorini",
+      "country": "Greece",
+      "region": "europe",
+      "currency": "EUR",
+      "wiki": "Santorini",
+      "tags": [
+        "islands",
+        "beach"
+      ],
+      "pitch": "Sunset in Oia is crowded. It's still worth it.",
+      "lat": 36.4,
+      "lon": 25.4786
+    },
+    {
+      "code": "FCO",
+      "city": "Rome",
+      "country": "Italy",
+      "region": "europe",
+      "currency": "EUR",
+      "wiki": "Rome",
+      "tags": [
+        "city",
+        "food",
+        "culture"
+      ],
+      "pitch": "Carbonara within sight of the Colosseum.",
+      "lat": 41.8045,
+      "lon": 12.252
+    },
+    {
+      "code": "NAP",
+      "city": "Naples",
+      "country": "Italy",
+      "region": "europe",
+      "currency": "EUR",
+      "wiki": "Naples",
+      "tags": [
+        "food",
+        "city"
+      ],
+      "pitch": "The real pizza, and the Amalfi Coast next door.",
+      "lat": 40.886,
+      "lon": 14.2908
+    },
+    {
+      "code": "NCE",
+      "city": "Nice",
+      "country": "France",
+      "region": "europe",
+      "currency": "EUR",
+      "wiki": "Nice",
+      "tags": [
+        "beach",
+        "city"
+      ],
+      "pitch": "The Riviera's pebble beaches and Old Town.",
+      "lat": 43.6584,
+      "lon": 7.2159
+    },
+    {
+      "code": "DBV",
+      "city": "Dubrovnik",
+      "country": "Croatia",
+      "region": "europe",
+      "currency": "EUR",
+      "wiki": "Dubrovnik",
+      "tags": [
+        "beach",
+        "culture"
+      ],
+      "pitch": "Walk the walls above the Adriatic.",
+      "lat": 42.5622,
+      "lon": 18.2655
+    },
+    {
+      "code": "MLA",
+      "city": "Malta",
+      "country": "Malta",
+      "region": "europe",
+      "currency": "EUR",
+      "wiki": "Malta",
+      "photoWiki": "Valletta",
+      "tags": [
+        "islands",
+        "culture"
+      ],
+      "pitch": "7,000 years of history in a tiny island nation.",
+      "lat": 35.8459,
+      "lon": 14.4915
+    },
+    {
+      "code": "DXB",
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "region": "middle-east",
+      "currency": "AED",
+      "wiki": "Dubai",
+      "tags": [
+        "city",
+        "desert",
+        "beach"
+      ],
+      "pitch": "Desert dunes and beach clubs in one day.",
+      "lat": 25.2498,
+      "lon": 55.371
+    },
+    {
+      "code": "DOH",
+      "city": "Doha",
+      "country": "Qatar",
+      "region": "middle-east",
+      "currency": "QAR",
+      "wiki": "Doha",
+      "tags": [
+        "city",
+        "culture"
+      ],
+      "pitch": "Souq Waqif and the Museum of Islamic Art.",
+      "lat": 25.2731,
+      "lon": 51.6081
+    },
+    {
+      "code": "RAK",
+      "city": "Marrakesh",
+      "country": "Morocco",
+      "region": "africa",
+      "currency": "MAD",
+      "wiki": "Marrakesh",
+      "tags": [
+        "culture",
+        "food",
+        "desert"
+      ],
+      "pitch": "Medina mazes and rooftop mint tea.",
+      "lat": 31.6048,
+      "lon": -8.0358
+    },
+    {
+      "code": "CAI",
+      "city": "Cairo",
+      "country": "Egypt",
+      "region": "africa",
+      "currency": "EGP",
+      "wiki": "Cairo",
+      "tags": [
+        "culture",
+        "desert"
+      ],
+      "pitch": "The pyramids at Giza, finally in person.",
+      "lat": 30.1115,
+      "lon": 31.3967
+    },
+    {
+      "code": "CPT",
+      "city": "Cape Town",
+      "country": "South Africa",
+      "region": "africa",
+      "currency": "ZAR",
+      "wiki": "Cape_Town",
+      "tags": [
+        "beach",
+        "nature",
+        "food"
+      ],
+      "pitch": "Hike Table Mountain, then go see the penguins at Boulders Beach.",
+      "lat": -33.974,
+      "lon": 18.6043
+    },
+    {
+      "code": "HND",
+      "city": "Tokyo",
+      "country": "Japan",
+      "region": "asia",
+      "currency": "JPY",
+      "wiki": "Tokyo",
+      "tags": [
+        "city",
+        "food",
+        "culture"
+      ],
+      "pitch": "The trains are always on time and the convenience store food is great.",
+      "lat": 35.5497,
+      "lon": 139.787
+    },
+    {
+      "code": "OKA",
+      "city": "Okinawa",
+      "country": "Japan",
+      "region": "asia",
+      "currency": "JPY",
+      "wiki": "Okinawa_Island",
+      "tags": [
+        "beach",
+        "islands"
+      ],
+      "pitch": "Japan, but with coral reefs and beach weather in winter.",
+      "lat": 26.1924,
+      "lon": 127.6398
+    },
+    {
+      "code": "HKG",
+      "city": "Hong Kong",
+      "country": "Hong Kong",
+      "region": "asia",
+      "currency": "HKD",
+      "wiki": "Hong_Kong",
+      "photoWiki": "Hong_Kong_Island",
+      "tags": [
+        "city",
+        "food"
+      ],
+      "pitch": "Dim sum for breakfast, then the Dragon's Back hike down to a beach.",
+      "lat": 22.3118,
+      "lon": 113.9149
+    },
+    {
+      "code": "TPE",
+      "city": "Taipei",
+      "country": "Taiwan",
+      "region": "asia",
+      "currency": "TWD",
+      "wiki": "Taipei",
+      "tags": [
+        "city",
+        "food"
+      ],
+      "pitch": "Night markets that never run out of snacks.",
+      "lat": 25.0777,
+      "lon": 121.233
+    },
+    {
+      "code": "ICN",
+      "city": "Seoul",
+      "country": "South Korea",
+      "region": "asia",
+      "currency": "KRW",
+      "wiki": "Seoul",
+      "tags": [
+        "city",
+        "food",
+        "culture"
+      ],
+      "pitch": "Korean BBQ for dinner and a café that's still open at 2am.",
+      "lat": 37.4691,
+      "lon": 126.451
+    },
+    {
+      "code": "BKK",
+      "city": "Bangkok",
+      "country": "Thailand",
+      "region": "asia",
+      "currency": "THB",
+      "wiki": "Bangkok",
+      "tags": [
+        "city",
+        "food",
+        "culture"
+      ],
+      "pitch": "Temples by day, street food by night.",
+      "lat": 13.6811,
+      "lon": 100.747
+    },
+    {
+      "code": "HKT",
+      "city": "Phuket",
+      "country": "Thailand",
+      "region": "asia",
+      "currency": "THB",
+      "wiki": "Phuket_province",
+      "tags": [
+        "beach",
+        "islands"
+      ],
+      "pitch": "Longtail boats to limestone islands.",
+      "lat": 8.1133,
+      "lon": 98.3174
+    },
+    {
+      "code": "SGN",
+      "city": "Ho Chi Minh City",
+      "country": "Vietnam",
+      "region": "asia",
+      "currency": "VND",
+      "wiki": "Ho_Chi_Minh_City",
+      "tags": [
+        "city",
+        "food"
+      ],
+      "pitch": "Phở at dawn and a sea of motorbikes.",
+      "lat": 10.8188,
+      "lon": 106.652
+    },
+    {
+      "code": "SIN",
+      "city": "Singapore",
+      "country": "Singapore",
+      "region": "asia",
+      "currency": "SGD",
+      "wiki": "Singapore",
+      "photoWiki": "Gardens_by_the_Bay",
+      "tags": [
+        "city",
+        "food"
+      ],
+      "pitch": "Hawker centers worth the 20-hour flight.",
+      "lat": 1.3502,
+      "lon": 103.994
+    },
+    {
+      "code": "DPS",
+      "city": "Bali",
+      "country": "Indonesia",
+      "region": "asia",
+      "currency": "IDR",
+      "wiki": "Bali",
+      "photoWiki": "Tanah_Lot",
+      "tags": [
+        "beach",
+        "islands",
+        "culture"
+      ],
+      "pitch": "Ubud for rice terraces, the south coast for surf.",
+      "lat": -8.7484,
+      "lon": 115.1671
+    },
+    {
+      "code": "MNL",
+      "city": "Manila",
+      "country": "Philippines",
+      "region": "asia",
+      "currency": "PHP",
+      "wiki": "Manila",
+      "tags": [
+        "city",
+        "islands"
+      ],
+      "pitch": "Jumping-off point for 7,000 islands.",
+      "lat": 14.5086,
+      "lon": 121.02
+    },
+    {
+      "code": "SYD",
+      "city": "Sydney",
+      "country": "Australia",
+      "region": "oceania",
+      "currency": "AUD",
+      "wiki": "Sydney",
+      "tags": [
+        "beach",
+        "city"
+      ],
+      "pitch": "Bondi to Coogee walk on a summer morning.",
+      "lat": -33.9461,
+      "lon": 151.177
+    },
+    {
+      "code": "BNE",
+      "city": "Brisbane",
+      "country": "Australia",
+      "region": "oceania",
+      "currency": "AUD",
+      "wiki": "Brisbane",
+      "tags": [
+        "city",
+        "nature"
+      ],
+      "pitch": "River city with the Gold Coast down the road.",
+      "lat": -27.3842,
+      "lon": 153.117
+    },
+    {
+      "code": "AKL",
+      "city": "Auckland",
+      "country": "New Zealand",
+      "region": "oceania",
+      "currency": "NZD",
+      "wiki": "Auckland",
+      "tags": [
+        "city",
+        "nature",
+        "islands"
+      ],
+      "pitch": "Volcano hikes and island ferries.",
+      "lat": -37.012,
+      "lon": 174.7863
+    },
+    {
+      "code": "NAN",
+      "city": "Fiji",
+      "country": "Fiji",
+      "region": "oceania",
+      "currency": "FJD",
+      "wiki": "Fiji",
+      "photoWiki": "Mamanuca_Islands",
+      "tags": [
+        "beach",
+        "islands"
+      ],
+      "pitch": "You'll hear \"Bula!\" about a hundred times a day.",
+      "lat": -17.7618,
+      "lon": 177.4378
+    },
+    {
+      "code": "PPT",
+      "city": "Tahiti",
+      "country": "French Polynesia",
+      "region": "oceania",
+      "currency": "XPF",
+      "wiki": "Tahiti",
+      "photoWiki": "Papeete",
+      "tags": [
+        "islands",
+        "beach"
+      ],
+      "pitch": "Black-sand beaches and the road to Bora Bora.",
+      "lat": -17.5535,
+      "lon": -149.6069
+    }
+  ]
+}

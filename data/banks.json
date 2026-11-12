@@ -1,0 +1,12 @@
+{
+  "lastVerified": "2026-11-11",
+  "note": "Cents-per-point values are this app's own estimates, used only to compare options.",
+  "banks": [
+    { "id": "chase", "name": "Chase Ultimate Rewards", "short": "Chase", "color": "#1b4f9c", "cpp": 1.8, "step": 1000 },
+    { "id": "amex", "name": "Amex Membership Rewards", "short": "Amex", "color": "#2e77d0", "cpp": 1.8, "step": 1000 },
+    { "id": "capitalone", "name": "Capital One Miles", "short": "Capital One", "color": "#c8102e", "cpp": 1.7, "step": 1000 },
+    { "id": "citi", "name": "Citi ThankYou Points", "short": "Citi", "color": "#0090c8", "cpp": 1.7, "step": 1000 },
+    { "id": "bilt", "name": "Bilt Rewards", "short": "Bilt", "color": "#2b2b2b", "cpp": 1.9, "step": 1000 },
+    { "id": "marriott", "name": "Marriott Bonvoy", "short": "Marriott", "color": "#b5552b", "cpp": 0.75, "step": 3000 }
+  ]
+}

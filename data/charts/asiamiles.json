@@ -1,0 +1,13 @@
+{
+  "program": "asiamiles",
+  "label": "Asia Miles single oneworld partner standard awards (unofficial; Cathay no longer publishes charts)",
+  "lastVerified": "2026-11-11",
+  "type": "distance",
+  "bands": [
+    { "zone": "Ultra-short", "maxMiles": 750, "economy": 10000, "business": 20000 },
+    { "zone": "Short", "maxMiles": 2750, "economy": 15000, "business": 33000 },
+    { "zone": "Medium", "maxMiles": 5000, "economy": 27000, "business": 63000 },
+    { "zone": "Long", "maxMiles": 7500, "economy": 40000, "business": 93000 },
+    { "zone": "Ultra-long", "maxMiles": null, "economy": 47000, "business": 120000 }
+  ]
+}

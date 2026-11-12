@@ -1,0 +1,23 @@
+{
+  "program": "avios",
+  "label": "BA partner pricing (oneworld partners except Cathay & JAL), from 15 Dec 2025",
+  "lastVerified": "2026-11-11",
+  "type": "distance",
+  "domesticFloor": {
+    "note": "Flights within North America under 1,151 miles price at Zone 2.",
+    "originCountries": ["US", "CA"],
+    "destinationRegions": ["usa", "hawaii"],
+    "minMiles": 651
+  },
+  "bands": [
+    { "zone": 1, "maxMiles": 650, "economy": 6500, "business": 14000 },
+    { "zone": 2, "maxMiles": 1150, "economy": 10000, "business": 18500 },
+    { "zone": 3, "maxMiles": 2000, "economy": 12500, "business": 24500 },
+    { "zone": 4, "maxMiles": 3000, "economy": 14500, "business": 43000 },
+    { "zone": 5, "maxMiles": 4000, "economy": 22000, "business": 57000, "estimated": true },
+    { "zone": 6, "maxMiles": 5500, "economy": 28500, "business": 71500, "estimated": true },
+    { "zone": 7, "maxMiles": 6500, "economy": 33000, "business": 85500, "estimated": true },
+    { "zone": 8, "maxMiles": 7000, "economy": 38500, "business": 99000, "estimated": true },
+    { "zone": 9, "maxMiles": null, "economy": 55000, "business": 137500, "estimated": true }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "lastVerified": "2026-11-11",
+  "note": "ratio = airline miles received per 1 bank point. Check each bank's site before transferring.",
+  "transfers": [
+    { "from": "chase", "to": "avios", "ratio": 1 },
+    { "from": "amex", "to": "avios", "ratio": 1 },
+    { "from": "amex", "to": "asiamiles", "ratio": 0.8 },
+    { "from": "capitalone", "to": "avios", "ratio": 1 },
+    { "from": "capitalone", "to": "asiamiles", "ratio": 1 },
+    { "from": "citi", "to": "asiamiles", "ratio": 1 },
+    { "from": "bilt", "to": "avios", "ratio": 1 },
+    { "from": "bilt", "to": "asiamiles", "ratio": 1 },
+    { "from": "bilt", "to": "atmos", "ratio": 1 },
+    { "from": "marriott", "to": "avios", "ratio": 0.3333 },
+    { "from": "marriott", "to": "asiamiles", "ratio": 0.3333 },
+    { "from": "marriott", "to": "atmos", "ratio": 0.3333 }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "note": "Currencies fixed to the US dollar by their central banks. Used when the ECB (Frankfurter) does not publish a rate.",
+  "pegs": {
+    "BSD": 1,
+    "BMD": 1,
+    "PAB": 1,
+    "KYD": 0.8333,
+    "AWG": 1.79,
+    "XCG": 1.79,
+    "XCD": 2.7,
+    "BBD": 2,
+    "BZD": 2,
+    "AED": 3.6725,
+    "QAR": 3.64
+  }
+}
